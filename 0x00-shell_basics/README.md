@@ -10,3 +10,4 @@
 9-firstdirdeletion Delete the directory my_first_directory that is in the /tmp directory.
 10-back Write a script that changes the working directory to the previous one.
 11-lists lists directories and files in the parent, current and boot directory
+12-file_type Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
